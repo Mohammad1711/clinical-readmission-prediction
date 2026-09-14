@@ -109,3 +109,18 @@ Python | Pandas | NumPy | Matplotlib | Scikit-learn | Jupyter Notebook
 This project is an educational and exploratory clinical data science analysis.
 
 The models are **not intended for clinical decision-making or patient care**.
+
+## Data Source
+
+The dataset is publicly available from the UCI Machine Learning Repository:
+
+**Diabetes 130-US Hospitals for Years 1999–2008**
+
+https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+
+Dataset citation:
+
+Clore, J., Cios, K., DeShazo, J., & Strack, B. (2014).
+*Diabetes 130-US Hospitals for Years 1999–2008.*
+UCI Machine Learning Repository.
+DOI: 10.24432/C5230J
